@@ -1,4 +1,4 @@
-Flask
-Numpy
-Pandas
+flask
+numpy
+pandas
 scikit-learn
